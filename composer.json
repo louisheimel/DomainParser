@@ -1,9 +1,9 @@
 {
-    "name": "novutec/DomainParser"
+    "name": "louisheimel/DomainParser"
   , "type": "library"
   , "description": "A domain name parser to parse and to validate a domain name."
   , "keywords": ["domainparser", "domain", "php"]
-  , "homepage": "https://github.com/novutec/DomainParser/"
+  , "homepage": "https://github.com/louisheimel/DomainParser/"
   , "author": "Novutec Inc."
   , "license": "Apache-2.0"
   , "autoload": {

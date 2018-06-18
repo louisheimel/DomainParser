@@ -44,7 +44,8 @@ $additional = array(
         'il' => array('ac.il', 'co.il', 'org.il', 'net.il', 'k12.il', 'gov.il', 'muni.il', 'idf.il'), 
         'ck' => array('co.ck', 'edu.ck', 'gov.ck', 'net.ck', 'org.ck'), 
         'fj' => array('ac.fj', 'biz.fj', 'com.fj', 'info.fj', 'mil.fj', 'name.fj', 'net.fj', 
-                'org.fj', 'pro.fj'), 
+                'org.fj', 'pro.fj'),
+        'com' => array('co.com'),
         
         // private domain names
         'centralnic' => array('ae.org', 'ar.com', 'br.com', 'cn.com', 'de.com', 'eu.com', 'gb.com', 
